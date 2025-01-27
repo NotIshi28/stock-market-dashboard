@@ -1,3 +1,15 @@
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+
+[![Python Versions](https://img.shields.io/pypi/pyversions/streamlit.svg)](https://pypi.org/project/streamlit/)
+</div>
+
+
 # 📈 Stock Market Dashboard
 
 A comprehensive and interactive stock market analysis tool built with **Streamlit**. This dashboard provides real-time stock data visualization, technical analysis, portfolio tracking, market news, and investor education resources.
